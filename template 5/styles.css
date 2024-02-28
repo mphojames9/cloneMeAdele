@@ -1,0 +1,158 @@
+body {
+    background-image: url("concrete-wall-structure-urban.jpg");
+    background-attachment: fixed;
+    background-size: 900px;
+    position: relative;
+}
+
+img {
+    width: 1800px;
+    margin: 4em;
+    transform: rotate(2deg);
+}
+
+.surname {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 18.715em;
+    margin-top: 16.9em;
+    font-family: Arial;
+    font-size: 1.9em;
+    font-weight: 600;
+    color: rgba(51, 45, 45, 0.918);
+    letter-spacing: 3.7px;
+    transform: rotate(2deg);
+}
+
+.names {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 18.7em;
+    margin-top: 19.3em;
+    font-family: Arial;
+    font-size: 1.9em;
+    font-weight: 600;
+    color: rgba(36, 34, 34, 0.863);
+    letter-spacing: 3.1px;
+    transform: rotate(2deg);
+}
+
+.sex {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 18.7em;
+    margin-top: 21.6em;
+    font-family: Arial;
+    font-size: 1.9em;
+    font-weight: 600;
+    color: rgba(36, 33, 33, 0.842);
+    letter-spacing: 3.1px;
+    transform: rotate(2deg);
+}
+
+.nationality {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 18.7em;
+    margin-top: 23.99em;
+    font-family: Arial;
+    font-size: 1.9em;
+    font-weight: 600;
+    color: rgb(34, 33, 33);
+    letter-spacing: 3.1px;
+    transform: rotate(2deg);
+}
+
+.id {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 18.7em;
+    margin-top: 26.3em;
+    font-family: Arial;
+    font-size: 1.9em;
+    font-weight: 700;
+    color: rgb(26, 25, 25);
+    letter-spacing: 2.7px;
+    transform: rotate(2.05deg);
+}
+
+.dob {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 18.6em;
+    margin-top: 28.7em;
+    font-family: Arial;
+    font-size: 1.9em;
+    font-weight: 600;
+    color: rgb(8, 8, 8);
+    letter-spacing: 2.7px;
+    transform: rotate(2.0deg);
+}
+
+
+
+.cob {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 18.615em;
+    margin-top: 31.12em;
+    font-family: Arial;
+    font-size: 1.9em;
+    font-weight: 600;
+    color: rgb(51, 45, 45);
+    letter-spacing: 2.7px;
+    transform: rotate(2.05deg);
+}
+
+.status {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 18.56em;
+    margin-top: 33.5em;
+    font-family: Arial;
+    font-size: 1.9em;
+    font-weight: 600;
+    color: rgb(51, 45, 45);
+    letter-spacing: 2.7px;
+    transform: rotate(2.05deg);
+}
+
+.doi {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 33.55em;
+    margin-top: 43.5em;
+    font-family: Arial;
+    font-size: 2.1em;
+    font-weight: 600;
+    color: rgb(51, 45, 45);
+    letter-spacing: 2.7px;
+    transform: rotate(1deg);
+}

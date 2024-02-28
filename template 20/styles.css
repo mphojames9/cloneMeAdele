@@ -1,0 +1,167 @@
+body {
+    background-image: url("concrete-wall-structure-urban.jpg");
+    background-attachment: fixed;
+    background-size: 900px;
+    position: relative;
+}
+
+img {
+    width: 1500px;
+    margin: 4em;
+    transform: rotate(1.4deg);
+}
+
+.surname {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 22.55em;
+    margin-top: 14.8em;
+    font-family: Arial;
+    font-size: 1.6em;
+    font-weight: 600;
+    color: rgba(44, 44, 42, 0.678);
+    letter-spacing: 1px;
+    transform: rotate(.3deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.names {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 24.1em;
+    margin-top: 18.1em;
+    font-family: Arial;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: rgba(44, 44, 42, 0.678);
+    letter-spacing: .5px;
+    transform: rotate(.3deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.sex {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 24.1em;
+    margin-top: 20.4em;
+    font-family: Arial;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: rgba(44, 44, 42, 0.678);
+    letter-spacing: .5px;
+    transform: rotate(.3deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+
+.nationality {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 24.155em;
+    margin-top: 22.65em;
+    font-family: Arial;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: rgba(44, 44, 42, 0.678);
+    letter-spacing: .5px;
+    transform: rotate(.3deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.id {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 22.6em;
+    margin-top: 23.35em;
+    font-family: Arial;
+    font-size: 1.6em;
+    font-weight: 600;
+    color: rgba(44, 44, 42, 0.678);
+    letter-spacing: .9px;
+    transform: rotate(.3deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.dob {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 22.6em;
+    margin-top: 25.51em;
+    font-family: Arial;
+    font-size: 1.6em;
+    font-weight: 600;
+    color: rgba(20, 20, 20, 0.76);
+    letter-spacing: .9px;
+    transform: rotate(.3deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+
+.cob {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 22.6em;
+    margin-top: 27.62em;
+    font-family: Arial;
+    font-size: 1.6em;
+    font-weight: 600;
+    color: rgba(20, 20, 20, 0.527);
+    letter-spacing: .9px;
+    transform: rotate(.3deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.status {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 22.6em;
+    margin-top: 29.85em;
+    font-family: Arial;
+    font-size: 1.6em;
+    font-weight: 600;
+    color: rgba(20, 20, 20, 0.527);
+    letter-spacing: .9px;
+    transform: rotate(.3deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.doi {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 29.7em;
+    margin-top: 100em;
+    font-family: Arial;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: rgba(80, 71, 71, 0.788);
+    transform: rotate(-1.6deg);
+    text-shadow: 1px 1px 2px #6d6767;
+    
+}

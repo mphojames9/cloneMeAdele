@@ -1,0 +1,183 @@
+body {
+    background-image: url("concrete-wall-structure-urban.jpg");
+    background-attachment: fixed;
+    background-size: 900px;
+    position: relative;
+}
+
+img {
+    width: 1500px;
+    margin: 4em;
+    transform: rotate(0deg);
+}
+
+.surname {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 12.1em;
+    margin-top: 8.86em;
+    font-family: Arial;
+    font-size: 2.4em;
+    font-weight: 500;
+    color: rgba(110, 99, 87, 0.788);
+    letter-spacing: 1px;
+    transform: rotate(.2deg);
+    text-shadow: 2px 2px 3px #504a4ab9;
+}
+
+.names-1 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 19.88em;
+    margin-top: 17.1em;
+    font-family: Arial;
+    font-size: 1.76em;
+    font-weight: 600;
+    color: rgba(110, 99, 87, 0.89);
+    letter-spacing: 1.5px;
+    transform: rotate(.3deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.names-2 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 19.88em;
+    margin-top: 17.1em;
+    font-family: Arial;
+    font-size: 1.76em;
+    font-weight: 600;
+    color: rgba(110, 99, 87, 0.89);
+    letter-spacing: 1.5px;
+    transform: rotate(.3deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.sex {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 19.9em;
+    margin-top: 19.2em;
+    font-family: Arial;
+    font-size: 1.76em;
+    font-weight: 600;
+    color: rgba(110, 99, 87, 0.89);
+    letter-spacing: 1.5px;
+    transform: rotate(.3deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.nationality {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 19.88em;
+    margin-top: 21.39em;
+    font-family: Arial;
+    font-size: 1.76em;
+    font-weight: 600;
+    color: rgba(110, 99, 87, 0.774);
+    letter-spacing: 1.5px;
+    transform: rotate(.3deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.id {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 19.89em;
+    margin-top: 23.66em;
+    font-family: Arial;
+    font-size: 1.76em;
+    font-weight: 600;
+    color: rgba(110, 99, 87, 0.555);
+    letter-spacing: 1.5px;
+    transform: rotate(.3deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.dob {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 19.86em;
+    margin-top: 25.99em;
+    font-family: Arial;
+    font-size: 1.76em;
+    font-weight: 600;
+    color: rgb(70, 65, 60);
+    letter-spacing: 1.5px;
+    transform: rotate(.3deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+
+.cob {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 19.86em;
+    margin-top: 28.222em;
+    font-family: Arial;
+    font-size: 1.76em;
+    font-weight: 600;
+    color: rgba(110, 99, 87, 0.89);
+    letter-spacing: 1.5px;
+    transform: rotate(.3deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.status {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 19.80em;
+    margin-top: 30.6em;
+    font-family: Arial;
+    font-size: 1.76em;
+    font-weight: 600;
+    color: rgba(110, 99, 87, 0.89);
+    letter-spacing: 1.5px;
+    transform: rotate(.3deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.doi {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 29.7em;
+    margin-top: 100em;
+    font-family: Arial;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: rgba(80, 71, 71, 0.788);
+    transform: rotate(-1.6deg);
+    text-shadow: 1px 1px 2px #6d6767;
+    
+}

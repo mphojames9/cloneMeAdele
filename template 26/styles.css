@@ -1,0 +1,166 @@
+body {
+    background-image: url("concrete-wall-structure-urban.jpg");
+    background-attachment: fixed;
+    background-size: 500px;
+    position: relative;
+}
+
+img {
+    width: 1500px;
+    margin: 4em;
+    transform: rotate(-0.9deg);
+}
+
+.surname {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 15.72em;
+    margin-top: 13.95em;
+    font-family: Arial;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: rgba(89, 100, 124, 0.842);
+    letter-spacing: 1px;
+    transform: rotate(.3deg);
+    text-shadow: 2px 2px 5px rgba(65, 61, 61, 0.562);
+}
+
+.names {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 16.1em;
+    margin-top: 16.12em;
+    font-family: Arial;
+    font-size: 1.48em;
+    font-weight: 600;
+    color: rgba(89, 100, 124, 0.842);
+    letter-spacing: 1px;
+    transform: rotate(0deg);
+    text-shadow: 2px 2px 5px rgba(65, 61, 61, 0.678);
+}
+
+.sex {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 16em;
+    margin-top: 18.13em;
+    font-family: Arial;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: rgba(89, 100, 124, 0.842);
+    letter-spacing: 1px;
+    transform: rotate(0deg);
+    text-shadow: 2px 2px 5px rgba(65, 61, 61, 0.562);
+}
+
+.nationality {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 16em;
+    margin-top: 20.13em;
+    font-family: Arial;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: rgba(89, 100, 124, 0.842);
+    letter-spacing: 1px;
+    transform: rotate(0deg);
+    text-shadow: 2px 2px 5px rgba(65, 61, 61, 0.548);
+}
+
+.id {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 16.25em;
+    margin-top: 21.55em;
+    font-family: Arial;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: rgba(89, 100, 124, 0.842);
+    letter-spacing: 0.5px;
+    transform: rotate(-1deg);
+    text-shadow: 2px 2px 5px rgba(65, 61, 61, 0.548);
+}
+
+.dob {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 16.25em;
+    margin-top: 23.7em;
+    font-family: Arial;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: rgba(63, 70, 85, 0.842);
+    letter-spacing: 0.5px;
+    transform: rotate(-1deg);
+    text-shadow: 2px 2px 5px rgba(65, 61, 61, 0.603);
+}
+
+
+.cob {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 16.28em;
+    margin-top: 25.72em;
+    font-family: Arial;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: rgba(89, 100, 124, 0.842);
+    letter-spacing: 0.5px;
+    transform: rotate(-1deg);
+    text-shadow: 2px 2px 5px rgba(65, 61, 61, 0.596);
+}
+
+.status {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 16.3em;
+    margin-top: 27.8em;
+    font-family: Arial;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: rgba(89, 100, 124, 0.842);
+    letter-spacing: 0.5px;
+    transform: rotate(-1deg);
+    text-shadow: 2px 2px 5px rgba(65, 61, 61, 0.692);
+}
+
+.doi {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 29.7em;
+    margin-top: 100em;
+    font-family: Arial;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: rgba(80, 71, 71, 0.788);
+    transform: rotate(-1.6deg);
+    text-shadow: 1px 1px 2px #6d6767;
+    
+}

@@ -1,0 +1,230 @@
+body {
+    background-image: url("blue.jpeg");
+    background-attachment: fixed;
+    background-size: 1200px;
+    position: relative;
+    background-position-x: 8%;
+    position: relative;
+}
+
+.line1 {
+    width: 1350px;
+    height: 5px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border: none;
+    left: 0;
+    right: 0;
+    margin-top: 46.2em;
+    margin-left: 16em;
+    transform: rotate(-3.21deg);
+    box-shadow: 0px 15px 15px rgba(0, 0, 0, 0.993);
+    border-radius: 100%;
+}
+
+.line2 {
+    height: 770px;
+    width: 5px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border: none;
+    left: 0;
+    right: 0;
+    margin-top: -5em;
+    margin-left: 97.25em;
+    transform: rotate(-4.4deg);
+    box-shadow: 50px 0px 20px rgb(0, 0, 0);
+}
+
+.line3 {
+    height: 50px;
+    width: 50px;
+    border-bottom-right-radius:40px ;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border: none;
+    left: 0;
+    right: 0;
+    margin-top: 79.7em;
+    margin-left: 68.8em;
+    transform: rotate(3deg);
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.24);
+}
+
+.main {
+    width: 1500px;
+    margin-left: 10em;
+    margin-top: -10em;
+    transform: rotate(-1.3deg);
+}
+
+.face {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-top:17.25em;
+    margin-left: 27.04em;
+    width: 170px;
+    height: 205px;
+}
+
+.red {
+    width: 100%;
+    height: 2px;
+    background-color: NONE;
+    margin-top: 20em;
+    z-index: 100;
+}
+
+.surname {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 14.02em;
+    margin-top: 15.1em;
+    font-family: Arial;
+    font-size: 1.25em;
+    font-weight: 600;
+    color: rgba(63, 62, 62, 0.836);
+    letter-spacing: .42px;
+}
+
+.names {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 14.02em;
+    margin-top: 12.3em;
+    font-family: Arial;
+    font-size: 1.25em;
+    font-weight: 600;
+    color: rgba(51, 45, 45, 0.863);
+    letter-spacing: .42px;
+}
+
+.sex {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 14.02em;
+    margin-top: 14.32em;
+    font-family: Arial;
+    font-size: 1.25em;
+    font-weight: 600;
+    color: rgba(51, 45, 45, 0.856);
+}
+
+.nationality {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 14em;
+    margin-top: 16.55em;
+    font-family: Arial;
+    font-size: 1.25em;
+    font-weight: 600;
+    color: rgb(51, 45, 45);
+}
+
+.id {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 14em;
+    margin-top: 18.7em;
+    font-family: Arial;
+    font-size: 1.25em;
+    font-weight: 600;
+    color: rgba(51, 45, 45, 0.829);
+    letter-spacing: .42px;
+}
+
+.dob {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 14em;
+    margin-top: 20.88em;
+    font-family: Arial;
+    font-size: 1.25em;
+    font-weight: 600;
+    color: rgba(37, 36, 36, 0.856);
+    letter-spacing: .42px;
+}
+
+.cob {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 14em;
+    margin-top: 22.9em;
+    font-family: Arial;
+    font-size: 1.25em;
+    font-weight: 600;
+    color: rgba(37, 36, 36, 0.836);
+    letter-spacing: .42px;
+}
+
+.cob {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 14em;
+    margin-top: 22.9em;
+    font-family: Arial;
+    font-size: 1.25em;
+    font-weight: 600;
+    color: rgba(37, 36, 36, 0.774);
+    letter-spacing: .42px;
+}
+
+.status {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 13.9em;
+    margin-top: 25.1em;
+    font-family: Arial;
+    font-size: 1.25em;
+    font-weight: 600;
+    color: rgba(37, 36, 36, 0.795);
+    letter-spacing: .42px;
+}
+
+.doi {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 27.7em;
+    margin-top: 33.4em;
+    font-family: Arial;
+    font-size: 1.25em;
+    font-weight: 600;
+    color: rgba(37, 36, 36, 0.801);
+    letter-spacing: .42px;
+}

@@ -1,0 +1,229 @@
+body {
+    background-image: url("blue.jpeg");
+    background-attachment: fixed;
+    background-size: 1500px;
+    position: relative;
+}
+
+.line1 {
+    width: 870px;
+    height: 5px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border: none;
+    left: 0;
+    right: 0;
+    margin-top: 72.5em;
+    margin-left: 11em;
+    transform: rotate(0deg);
+    box-shadow: 0px 15px 10px black;
+    border-radius: 100%;
+}
+
+.line2 {
+    height: 520px;
+    width: 5px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border: none;
+    left: 0;
+    right: 0;
+    margin-top: 39em;
+    margin-left: 63.85em;
+    transform: rotate(1.6deg);
+    box-shadow: 50px 0px 5px rgba(0, 0, 0, 0.158);
+}
+
+.line3 {
+    height: 50px;
+    width: 50px;
+    border-bottom-right-radius:70% ;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border: none;
+    left: 0;
+    right: 0;
+    margin-top: 70.2em;
+    margin-left: 63.5em;
+    transform: rotate(3deg);
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.39);
+}
+
+.line1 {
+    width: 920px;
+    height: 5px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border: none;
+    left: 0;
+    right: 0;
+    margin-top: 59.7em;
+    margin-left: 16em;
+    transform: rotate(0deg);
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.534);
+    border-radius: 100%;
+}
+
+img {
+    width: 1300px;
+    margin: 4em;
+    transform: rotate(1.4deg);
+}
+
+.surname {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 14.3em;
+    margin-top: 14.5em;
+    font-family: Arial;
+    font-size: 1.9em;
+    font-weight: 600;
+    color: rgba(99, 97, 95, 0.555);
+    letter-spacing: 1px;
+    transform: rotate(1.4deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.names {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 14.2em;
+    margin-top: 16.5em;
+    font-family: Arial;
+    font-size: 1.9em;
+    font-weight: 600;
+    color: rgba(88, 86, 84, 0.555);
+    letter-spacing: 1px;
+    transform: rotate(1.4deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.sex {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 14.2em;
+    margin-top: 18.7em;
+    font-family: Arial;
+    font-size: 1.9em;
+    font-weight: 600;
+    color: rgba(88, 86, 84, 0.555);
+    letter-spacing: 1px;
+    transform: rotate(1.4deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.nationality {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 14.1em;
+    margin-top: 20.7em;
+    font-family: Arial;
+    font-size: 1.9em;
+    font-weight: 600;
+    color: rgba(88, 86, 84, 0.555);
+    letter-spacing: 1px;
+    transform: rotate(1.4deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.id {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 14.1em;
+    margin-top: 22.82em;
+    font-family: Arial;
+    font-size: 1.9em;
+    font-weight: 600;
+    color: rgba(88, 86, 84, 0.555);
+    letter-spacing: 1px;
+    transform: rotate(1.4deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.dob {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 14em;
+    margin-top: 25em;
+    font-family: Arial;
+    font-size: 1.9em;
+    font-weight: 600;
+    color: rgba(46, 45, 44, 0.733);
+    letter-spacing: 1px;
+    transform: rotate(1.4deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+
+.cob {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 14em;
+    margin-top: 27.2em;
+    font-family: Arial;
+    font-size: 1.9em;
+    font-weight: 600;
+    color: rgba(46, 45, 44, 0.397);
+    letter-spacing: 1px;
+    transform: rotate(1.4deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.status {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 13.94em;
+    margin-top: 29.4em;
+    font-family: Arial;
+    font-size: 1.9em;
+    font-weight: 600;
+    color: rgba(46, 45, 44, 0.555);
+    letter-spacing: 1px;
+    transform: rotate(1.4deg);
+    text-shadow: 1px 1px 2px #6d6767;
+}
+
+.doi {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 29.7em;
+    margin-top: 100em;
+    font-family: Arial;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: rgba(80, 71, 71, 0.555);
+    transform: rotate(-1.6deg);
+    text-shadow: 1px 1px 2px #6d6767;
+    
+}

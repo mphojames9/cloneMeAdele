@@ -1,0 +1,222 @@
+body {
+    background-image: url("floor.jpg");
+    background-attachment: fixed;
+    background-size: 1900px;
+    position: relative;
+}
+
+.line1 {
+    width: 1350px;
+    height: 5px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border: none;
+    left: 0;
+    right: 0;
+    margin-top: 70.7em;
+    margin-left: 6em;
+    transform: rotate(1deg);
+    box-shadow: 0px 15px 10px black;
+    border-radius: 100%;
+}
+
+.line1-b {
+    width: 1290px;
+    height: 5px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border: none;
+    left: 0;
+    right: 0;
+    margin-top: 104.7em;
+    margin-left: 6em;
+    transform: rotate(3.1deg);
+    box-shadow: 0px 15px 10px black;
+    border-radius: 100%;
+}
+
+.line2-b {
+    height: 810px;
+    width: 5px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border: none;
+    left: 0;
+    right: 0;
+    margin-top: 55.8em;
+    margin-left: 88.75em;
+    transform: rotate(1.7deg);
+    box-shadow: 15px 0px 10px black;
+}
+
+.line3-b {
+    height: 50px;
+    width: 50px;
+    border-bottom-right-radius:100% ;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border: none;
+    left: 0;
+    right: 0;
+    margin-top: 63em;
+    margin-left: 93.5em;
+    transform: rotate(-2.2deg);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.39);
+}
+
+
+img {
+    width: 1500px;
+    margin: 4em;
+    transform: rotate(1.4deg);
+}
+
+.surname {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 13.5em;
+    margin-top: 15.2em;
+    font-family: Arial;
+    font-size: 2.1em;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.575);
+    letter-spacing: 1.5px;
+    transform: rotate(.3deg);
+}
+
+.names {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 13.38em;
+    margin-top: 17.4em;
+    font-family: Arial;
+    font-size: 2.1em;
+    font-weight: 600;
+    letter-spacing: 3px;
+    transform: rotate(.3deg);
+    color: rgba(0, 0, 0, 0.548);
+}
+
+.sex {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 13.38em;
+    margin-top: 19.5em;
+    font-family: Arial;
+    font-size: 2.1em;
+    font-weight: 600;
+    letter-spacing: 3px;
+    transform: rotate(.3deg);
+    color: rgba(0, 0, 0, 0.575);
+}
+
+.nationality {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 13.38em;
+    margin-top: 21.78em;
+    font-family: Arial;
+    font-size: 2.1em;
+    font-weight: 600;
+    letter-spacing: 2px;
+    transform: rotate(.3deg);
+    color: rgba(0, 0, 0, 0.527);
+}
+
+.id {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 13.35em;
+    margin-top: 24.1em;
+    font-family: Arial;
+    font-size: 2.1em;
+    font-weight: 600;
+    letter-spacing: 2px;
+    transform: rotate(.3deg);
+    color: rgba(0, 0, 0, 0.562);
+}
+
+.dob {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 13.25em;
+    margin-top: 26.4em;
+    font-family: Arial;
+    font-size: 2.1em;
+    font-weight: 600;
+    letter-spacing: 2px;
+    transform: rotate(.3deg);
+    color: rgba(0, 0, 0, 0.76);
+}
+
+
+.cob {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 13.25em;
+    margin-top: 28.55em;
+    font-family: Arial;
+    font-size: 2.1em;
+    font-weight: 600;
+    letter-spacing: 2px;
+    transform: rotate(.3deg);
+    color: rgba(0, 0, 0, 0.521);
+}
+
+.status {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 13.23em;
+    margin-top: 30.85em;
+    font-family: Arial;
+    font-size: 2.1em;
+    font-weight: 600;
+    letter-spacing: 2px;
+    transform: rotate(.3deg);
+    color: rgba(0, 0, 0, 0.486);
+}
+
+.doi {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 29.7em;
+    margin-top: 100em;
+    font-family: Arial;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: rgba(80, 71, 71, 0.788);
+    transform: rotate(-1.6deg);
+    text-shadow: 1px 1px 2px #6d6767;
+    
+}
